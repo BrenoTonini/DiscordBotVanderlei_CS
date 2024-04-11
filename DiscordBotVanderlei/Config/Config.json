@@ -1,0 +1,5 @@
+﻿{
+  "discord_bot_token": "token",
+  "prefix": "!",
+  "openai_api_token": "api-token"
+}
